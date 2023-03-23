@@ -1,2 +1,7 @@
-# CLI-2-GUI
-https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
+> # `CLI-2-GUI`
+>
+> ![ss](https://github.com/imvickykumar999/CLI-2-GUI/blob/main/static/pyFiglet_render_text.png?raw=true)
+>
+> ![ss](https://github.com/imvickykumar999/CLI-2-GUI/blob/main/static/pyinquirer_checkbox_order_pizza.png?raw=true)
+>
+> ![ss](https://github.com/imvickykumar999/CLI-2-GUI/blob/main/static/clint_args.png?raw=true)
